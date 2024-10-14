@@ -1,5 +1,6 @@
 # ENVI5809-Final
 by: Jingwen Shi, Ruiqing Wang, Sisilia Ulakai, Yinzhe Pei​
+
 ## Project title : Simulating the Environmental Parameters that influence the distribution of humpback whales along East Coast Australia
 
 ### Research Questions:
