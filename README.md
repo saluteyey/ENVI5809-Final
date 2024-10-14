@@ -13,13 +13,13 @@ by: Jingwen Shi, Ruiqing Wang, Sisilia Ulakai, Yinzhe Pei​
 
 
 ## Data sources: 
-Humpback whale migration data: moverbank [(https://www.movebank.org/cms/webapp?gwt_fragment=page=studies,path=study3030068329)](https://www.movebank.org/cms/webapp?gwt_fragment=page=studies,path=study3030068329)
+Humpback whale migration data: [Movebank](https://www.movebank.org/cms/webapp?gwt_fragment=page=studies,path=study3030068329)
 
-Sea surface temperature data: [NOAA](https://psl.noaa.gov/data/gridded/data.noaa.oisst.v2.highres.html)
+Sea surface temperature data: [NOAA OI SST V2 High Resolution Dataset](https://psl.noaa.gov/data/gridded/data.noaa.oisst.v2.highres.html)
 
 Salinity data: NASA (INSERT LINK HERE) 
 
-Future SST data: Climate Data Store (https://cds.climate.copernicus.eu/datasets/projections-cmip6?tab=overview)
+Future SST data: [Climate Data Store](https://cds.climate.copernicus.eu/datasets/projections-cmip6?tab=overview)
 
 
 
