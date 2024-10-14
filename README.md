@@ -9,7 +9,10 @@ by: Jingwen Shi, Ruiqing Wang, Sisilia Ulakai, Yinzhe Pei​
 3. What is the predicted sea surface temperature range along the humpback whale migration route?
 
 ## Analysis plan:
-1. 
+1. Upload the humpback whales' migration route data.
+2. Upload the environmental parameters data (temperature and salinity).
+3. Analysis of how do these environmental parameters change with migration route.
+4. Predict the change of future temperture influence the humpback whales' migration.
 
 
 ## Data sources: 
