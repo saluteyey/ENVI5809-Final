@@ -9,7 +9,7 @@ by: Jingwen Shi, Ruiqing Wang, Sisilia Ulakai, Yinzhe Pei​
 3. What is the predicted sea surface temperature range along the humpback whale migration route?
 
 ## Analysis plan:
-
+1. 
 
 
 ## Data sources: 
@@ -17,7 +17,7 @@ Humpback whale migration data: [Movebank](https://www.movebank.org/cms/webapp?gw
 
 Sea surface temperature data: [NOAA OI SST V2 High Resolution Dataset](https://psl.noaa.gov/data/gridded/data.noaa.oisst.v2.highres.html)
 
-Salinity data: NASA (INSERT LINK HERE) 
+Salinity data: [NASA](https://cmr.earthdata.nasa.gov/virtual-directory/collections/C1990404821-POCLOUD/temporal)
 
 Future SST data: [Climate Data Store](https://cds.climate.copernicus.eu/datasets/projections-cmip6?tab=overview)
 
