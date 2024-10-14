@@ -19,7 +19,7 @@ Sea surface temperature data: NOAA (INSERT LINK HERE)
 
 Salinity data: NASA (INSERT LINK HERE) 
 
-Future SST data: ESGF (INSERT LINK HERE)
+Future SST data: Climate Data Store [(https://cds.climate.copernicus.eu/datasets/projections-cmip6?tab=overview)]
 
 
 
