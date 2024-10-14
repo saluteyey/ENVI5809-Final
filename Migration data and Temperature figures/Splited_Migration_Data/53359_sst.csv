@@ -1,0 +1,3 @@
+event-id,visible,timestamp,location-long,location-lat,algorithm-marked-outlier,argos:lat1,argos:lat2,argos:lc,argos:location-algorithm,argos:lon1,argos:lon2,comments,modelled,sensor-type,individual-taxon-canonical-name,tag-local-identifier,individual-local-identifier,study-name,year,month,day,sst
+30046732986,True,2010-10-14 08:39:00,153.309,-26.663,,-26.663,-26.663,1,least squares,153.309,153.309,,,argos-doppler-shift,Megaptera novaeangliae,53359,53359,Movements of Australia's east coast humpback whales,2010,10,14,22.0
+30046733012,True,2010-10-14 11:53:00,153.336,-26.723,,-26.723,-26.723,2,least squares,153.336,153.336,,,argos-doppler-shift,Megaptera novaeangliae,53359,53359,Movements of Australia's east coast humpback whales,2010,10,14,22.0
