@@ -11,7 +11,20 @@ by: Jingwen Shi, Ruiqing Wang, Sisilia Ulakai, Yinzhe Pei​
 ## Analysis plan:
 
 
-## Data resources:
+
+## Data sources: 
+Humpback whale migration data: moverbank [(https://www.movebank.org/cms/webapp?gwt_fragment=page=studies,path=study3030068329)](https://www.movebank.org/cms/webapp?gwt_fragment=page=studies,path=study3030068329)
+
+Sea surface temperature data: NOAA (INSERT LINK HERE)
+
+Salinity data: NASA (INSERT LINK HERE) 
+
+Future SST data: ESGF (INSERT LINK HERE)
+
+
+
+
+
 
 
 
