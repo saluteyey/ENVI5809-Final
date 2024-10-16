@@ -5,7 +5,7 @@ by: Jingwen Shi, Ruiqing Wang, Sisilia Ulakai, Yinzhe Pei​
 
 ## Research questions:
 1. What are the sea surface temperature range along the humpback whale migration route?
-2. Does salinity change influence humpback whale migration?
+2. Does salinity change accompanied with humpback whale migration?
 3. What is the predicted sea surface temperature range along the humpback whale migration route?
 
 ## Analysis plan:
