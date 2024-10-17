@@ -12,7 +12,7 @@ by: Jingwen Shi, Ruiqing Wang, Sisilia Ulakai, Yinzhe Pei​
 1. Divide different whale individuals and graph their migration routes.
 2. Extract Sea Surface Temperature and Salinity data along their routes for each recorded point.
 3. Analysis of how do these environmental parameters change with migration route.
-4. Predict how the change of future temperture may influence the humpback whales' migration.
+4. Use gif and linegraph to show the change of future temperture and to predict how it may influence the humpback whales' migration.
 
 
 ## Data sources: 
