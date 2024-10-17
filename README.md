@@ -10,9 +10,9 @@ by: Jingwen Shi, Ruiqing Wang, Sisilia Ulakai, Yinzhe Pei​
 
 ## Analysis plan:
 1. Upload the humpback whales' migration route data.
-2. Upload the environmental parameters data (temperature and salinity).
+2. Upload the recorded environmental parameters datasets (temperature and salinity) and future temperature dataset.
 3. Analysis of how do these environmental parameters change with migration route.
-4. Predict the change of future temperture influence the humpback whales' migration.
+4. Predict how the change of future temperture may influence the humpback whales' migration.
 
 
 ## Data sources: 
